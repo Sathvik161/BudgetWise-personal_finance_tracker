@@ -45,17 +45,20 @@ Built with **Next.js**, **React**, **shadcn/ui**, **Recharts**, and **MongoDB**.
 ```bash
 git clone https://github.com/your-username/budgetwise.git
 cd budgetwise
+```
 
 ### 2. Install Dependencies
 ```bash
 npm install
+```
 
 ### 3. Setup Environment Variables
 Create a .env.local file in the root and add:
 ```bash
 MONGODB_URI=your_mongodb_connection_string
+```
 
 ### 4. Run the Dev Server
 ```bash
 npm run dev
-
+```
